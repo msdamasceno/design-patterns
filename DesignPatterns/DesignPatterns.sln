@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Design Patterns de Cria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{9FCCE0C2-FF2E-4956-A87C-9816035ECDC5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Design Patterns Estrutural", "2 - Design Patterns Estrutural", "{5BFC6CBD-2B39-45E0-A802-9FF77C0F9A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{496454BC-BED2-477E-B85E-8FC23F293FAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{9FCCE0C2-FF2E-4956-A87C-9816035ECDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FCCE0C2-FF2E-4956-A87C-9816035ECDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FCCE0C2-FF2E-4956-A87C-9816035ECDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496454BC-BED2-477E-B85E-8FC23F293FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496454BC-BED2-477E-B85E-8FC23F293FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496454BC-BED2-477E-B85E-8FC23F293FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496454BC-BED2-477E-B85E-8FC23F293FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9FCCE0C2-FF2E-4956-A87C-9816035ECDC5} = {A1CBBCD2-E331-448D-802B-080D0DB41061}
+		{496454BC-BED2-477E-B85E-8FC23F293FAF} = {5BFC6CBD-2B39-45E0-A802-9FF77C0F9A24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9553667E-2C9C-445C-9EEF-581116407154}
