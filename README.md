@@ -8,3 +8,7 @@ Projeto de Estudo com Técnicas Avançadas para Desenvolvimento de Software
 
 2 - Design Patterns Estrutural
 	2.1 - Facade	
+	
+3 - Design Patterns Comportamental
+	3.1 - Mediator	
+	
